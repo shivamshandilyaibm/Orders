@@ -2,7 +2,7 @@ openapi: 3.0.1
 info:
   title: Order
   description: View and track your orders and deliveries.
-  termsOfService:https://github.com/shivamshandilyaibm/Orders/blob/c0db1f94a4e3d30579a1c8ec77b164e2bce3236c/api/orders_api.yaml
+  termsOfService:https://raw.githubusercontent.com/shivamshandilyaibm/Orders/main/api/orders_api.yaml
   contact:
     name: IBM Corporation
     url: https://github.com/shivamshandilyaibm/Orders/blob/c0db1f94a4e3d30579a1c8ec77b164e2bce3236c/api/orders_api.yaml
